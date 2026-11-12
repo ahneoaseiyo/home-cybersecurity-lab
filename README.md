@@ -2,7 +2,7 @@
 
 An academic penetration-testing case study covering vulnerability assessment, endpoint compromise, credential exposure, and access to sensitive data across a virtual lab.
 
-This repository presents a public summary of the **ET0741 Network Hacking Mini Project** group report dated **2 February 2026**. Neo June Wai is a credited group member. The source does not separate individual contributions, so the results below are attributed to the group.
+This repository presents a public summary of the **ET0741 Network Hacking Mini Project** group report dated **2 February 2026**. The source does not separate individual contributions, so the results below are attributed to the group.
 
 ## Project outcome
 
